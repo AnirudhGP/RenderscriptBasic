@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aniru\AndroidStudioProjects\RenderScriptBasic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bb882b19b4cab6b00f85dad159cd6f6791f53b05">
+        <dex dex="C:\Users\aniru\AndroidStudioProjects\RenderScriptBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_24bb0ac22e5ba46bee6a8af9c73da79eae913d23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aniru\AndroidStudioProjects\RenderScriptBasic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="17ed611d0f49fef24495f0bbf9a7fb60ef986e46">
+        <dex dex="C:\Users\aniru\AndroidStudioProjects\RenderScriptBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fe07924a708d9ddafab8ae1e70e997c692364b55\classes.dex" />
+    </item>
+
+</items>

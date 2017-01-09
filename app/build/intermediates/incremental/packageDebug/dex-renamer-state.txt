@@ -1,0 +1,7 @@
+#Sun Jan 08 14:06:53 IST 2017
+base.0=C\:\\Users\\aniru\\AndroidStudioProjects\\RenderScriptBasic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fe07924a708d9ddafab8ae1e70e997c692364b55
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\aniru\\AndroidStudioProjects\\RenderScriptBasic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_24bb0ac22e5ba46bee6a8af9c73da79eae913d23\\classes.dex
+base.1=C\:\\Users\\aniru\\AndroidStudioProjects\\RenderScriptBasic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_24bb0ac22e5ba46bee6a8af9c73da79eae913d23
+file.0=C\:\\Users\\aniru\\AndroidStudioProjects\\RenderScriptBasic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fe07924a708d9ddafab8ae1e70e997c692364b55\\classes.dex
